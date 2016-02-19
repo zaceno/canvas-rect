@@ -1,5 +1,5 @@
 {
-  "name": "cartesian-rect",
+  "name": "canvas-rect",
   "version": "1.0.0",
   "description": "simplifies layouts in html5 canvases",
   "main": "rect.js",
