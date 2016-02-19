@@ -32,9 +32,11 @@ var Rect = function (ctx, w, h, x, y) {
 };
 
 Rect.fromCanvas = function (canvasElement) {
+  return new Rect(
     canvasElement.getContext('2d'),
     canvasElement.width,
     canvasElement.height
+  );
 };
 //return a new rect of given width and height,
 //with it's top left corner at the given offset.
