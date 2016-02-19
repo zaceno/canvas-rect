@@ -1,0 +1,17 @@
+{
+  "name": "cartesian-rect",
+  "version": "1.0.0",
+  "description": "simplifies layouts in html5 canvases",
+  "main": "rect.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaceno/canvas-rect.git"
+  },
+  "author": "zacharias.enochsson@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaceno/canvas-rect/issues"
+  },
+  "homepage": "https://github.com/zaceno/canvas-rect#readme"
+}
